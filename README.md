@@ -1,5 +1,5 @@
-Discussion Thread System
-The Discussion Thread System allows users to create discussion threads, view individual posts, add comments, and reply to comments in a nested structure.
+
+The **Discussion Thread System** allows users to create discussion threads, view individual posts, add comments, and reply to comments in a nested structure.
 
 Features:
 - Create discussion threads
