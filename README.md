@@ -14,9 +14,11 @@ The **Discussion Thread System** allows users to create discussion threads, view
 
 
 **Tech Stack Used**:
+<br/>
 Frontend
 - React.js
-- CSS 
+- CSS
+<br/>
 Backend
 - Node.js
 - Express.js
