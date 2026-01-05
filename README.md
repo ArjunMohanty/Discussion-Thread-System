@@ -18,13 +18,12 @@ The **Discussion Thread System** allows users to create discussion threads, view
 Frontend
 - React.js
 - CSS
-<br/>
-Backend
-<br/>
-- Node.js
-- Express.js
-- MongoDB
 
+Backend
+- Node.js<br/>
+- Express.js<br/>
+- MongoDB
+<br/>
 **Setup**:
 
 1. Clone the Repository
